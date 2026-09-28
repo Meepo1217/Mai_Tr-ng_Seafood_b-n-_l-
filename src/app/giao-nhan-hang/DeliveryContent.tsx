@@ -61,7 +61,7 @@ export function DeliveryContent() {
                 <p className="font-semibold text-ocean-800 mb-1">Khách hàng có thể đặt hàng qua:</p>
                 <ul className="list-disc pl-5 space-y-1 text-ocean-700/80">
                   <li>Hotline: <strong className="text-ocean-700">1900 0098</strong></li>
-                  <li>Website: <a href="https://daohaisan.vn" className="underline hover:text-ocean-500">https://maitrongseafood.vn</a></li>
+                  <li>Website: <a href="https://mai-tr-ng-seafood-b-n-l-6hp5.vercel.app/" className="underline hover:text-ocean-500">https://mai-tr-ng-seafood-b-n-l-6hp5.vercel.app/</a></li>
                   <li>Messenger: m.me/maitrongseafood</li>
                 </ul>
               </div>
